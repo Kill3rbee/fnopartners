@@ -284,15 +284,6 @@ Requirements You will need the following: 1) a Computer, 2) Internet (DSL or hig
     </item>
     
     <item>
-      <title>Alex Rook</title>
-      <link>/teacher/alex-rook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/teacher/alex-rook/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
       <title>CHEMICAL ENGINEERING</title>
       <link>/scholarship/scholarship-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -371,6 +362,15 @@ Requirements You will need the following: 1) a Computer, 2) Internet (DSL or hig
       
       <guid>/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
+    </item>
+    
+    <item>
+      <title>Nana Asiedu</title>
+      <link>/teacher/nana-esi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teacher/nana-esi/</guid>
+      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
