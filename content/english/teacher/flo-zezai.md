@@ -16,7 +16,7 @@ interest: ["Computer Networking","Computer Security","Human Computer Interfacing
 # contact info
 contact:
   # contact item loop
-  - name : "florenzezai@email.com"
+  - name : "florencezezai@email.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
     link : "mailto:florencezezai@email.com"
 
