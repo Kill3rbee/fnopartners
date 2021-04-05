@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 .RProfile
+public/
 .DS_Store
 *.key
 *.Rmd
